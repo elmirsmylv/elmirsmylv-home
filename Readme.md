@@ -11,7 +11,7 @@
 <!-- [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" />][linkedin]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/gmail.svg" />][gmail] -->
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
+[<img  width="22" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" align="left" />][linkedin]
 
 <br/>
 <br/>
