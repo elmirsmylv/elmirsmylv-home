@@ -11,7 +11,6 @@
 <!-- [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" />][linkedin]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/gmail.svg" />][gmail] -->
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/gmail.svg" align="left" />][gmail]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 
 <br/>
@@ -43,7 +42,6 @@ Tech I Use
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmirIsmayilov&layout=compact&theme=dark&show_icons=true" />
 
 [linkedin]: https://www.linkedin.com/in/elmirismayilov/
-[gmail]: elmirismayilov158@gmail.com
 
 <!-- [linkedin] : https://www.linkedin.com/in/elmirismayilov/
 [gmail]: elmirismayilov158@gmail.com -->
