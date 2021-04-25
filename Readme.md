@@ -1,6 +1,5 @@
 <img src="https://media.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif" align="right" width="300" height="250"  />
- 
-### Hi, I'm Elmir.
+
 
 ## Software Developer ( Junior for now )
 
