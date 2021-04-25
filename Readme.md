@@ -31,16 +31,16 @@ Tech I Use
 <br/>
 
 <!-- Github Stats -->
-<details>
-<summary>:bulb: Github Stats</summary>
+
+### :bulb: Github Stats
+
 <img src="https://github-readme-stats.vercel.app/api?username=elmirIsmayilov&theme=dark&show_icons=true" />
-</details>
 
 <!-- Most Used Languages -->
-<details>
-<summary>:bulb: Most Used Languages</summary>
+
+### :bulb: Most Used Languages
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmirIsmayilov&layout=compact&theme=dark&show_icons=true" />
-</details>
 
 [linkedin]: https://www.linkedin.com/in/elmirismayilov/
 [gmail]: elmirismayilov158@gmail.com
