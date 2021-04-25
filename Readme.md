@@ -4,7 +4,6 @@
 
 ## Software Developer ( Junior for now )
 
-<hr/>
 <br/>
 
 ### Reach out to me
