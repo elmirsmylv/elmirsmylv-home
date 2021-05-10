@@ -32,13 +32,13 @@ Tech I Use
 
 ### :bulb: Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=elmirIsmayilov&theme=dark&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=elmirsmylv&theme=dark&show_icons=true" />
 
 <!-- Most Used Languages -->
 
 ### :bulb: Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmirIsmayilov&layout=compact&theme=dark&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmirsmylv&layout=compact&theme=dark&show_icons=true" />
 
 [linkedin]: https://www.linkedin.com/in/elmirismayilov/
 
