@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif" align="right" width="300" height="250"  />
 
 
-## Tech Enthusiast | Management Information System student
+## Tech Enthusiast | MIS student
 
 <br/>
 
