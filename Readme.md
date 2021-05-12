@@ -1,21 +1,26 @@
-<img src="https://media.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif" align="right" width="300" height="250"  />
+<!--<img src="https://media.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif" align="right" width="300" height="250"  />-->
+
+<h1 align="center"> Tech Enthusiast | MIS student </h1>
 
 
-## Tech Enthusiast | MIS student
+<p align="center"> 
+<a href="https://www.linkedin.com/in/elmirismayilov/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Elmir_Ismayilov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elmirismayilov/"></a>
+<a href="mailto:elmirsmylv@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com"></a>
+</p>
+
 
 <br/>
 
-### Reach out to me
+<h3> 👨🏻‍💻 About Me </h3>
 
-<!-- [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" />][linkedin]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/gmail.svg" />][gmail] -->
-
-[<img  width="22" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" align="left" />][linkedin]
+- 🤔 &nbsp; Exploring new technologies and learn developing software solutions.
+- 🎓 &nbsp; Studying MIS at Akdeniz University, Antalya , TURKEY.
+- 🌱 &nbsp; Currently Learning JAVA (Spring Boot), JavaScript ( ReactJs, NextJs, NodeJs ).
+- Open for project collaboration and internship opportunities. 
 
 <br/>
-<br/>
 
-Tech I Use
+<!--Tech I Use
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="25" height="25">
@@ -26,7 +31,22 @@ Tech I Use
 <img align="left" src="https://thumbs.dreamstime.com/b/java-logo-vector-design-commercial-brand-trademark-118452997.jpg " width="25" height="25">
 
 <br/>
+-->
+
+- 💻 &nbsp; Java  | Javascript
+- 🌐 &nbsp; HTML | CSS  | Bootstrap | Sass | ReactJS | NextJS | NodeJS | Spring Boot |
+- 🛢 &nbsp; PostgreSql | MongoDB
+- 🔧 &nbsp; Git | Postman API | Figma | Zeplin
+
 <br/>
+
+<!--### Reach out to me
+
+
+&nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:elmirsmylv@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Elmir_Ismayilov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elmirismayilov/)](https://www.linkedin.com/in/elmirismayilov/)
+-->
+
 
 <!-- Github Stats -->
 
