@@ -49,11 +49,11 @@
 
 
 <!-- Github Stats -->
-
+<!--
 ### :bulb: Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=elmirsmylv&theme=dark&show_icons=true" />
-
+-->
 <!-- Most Used Languages -->
 
 ### :bulb: Most Used Languages
