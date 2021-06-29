@@ -33,9 +33,9 @@
 <br/>
 -->
 
-- 💻 &nbsp; Java  | Javascript
+- 💻 &nbsp; Javascript  | Java
 - 🌐 &nbsp; HTML | CSS  | Bootstrap | Sass | ReactJS | NextJS | NodeJS | Spring Boot |
-- 🛢 &nbsp; PostgreSql | MongoDB
+- 🛢 &nbsp; PostgreSql
 - 🔧 &nbsp; Git | Postman API | Figma | Zeplin
 
 <br/>
