@@ -15,7 +15,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and learn developing software solutions.
 - 🎓 &nbsp; Studying MIS at Akdeniz University, Antalya , TURKEY.
-- 🌱 &nbsp; Currently Learning JAVA (Spring Boot), JavaScript ( ReactJs, NextJs, NodeJs ).
+- 🌱 &nbsp; Currently Learning JavaScript ( ReactJs, NextJs, NodeJs ), JAVA (Spring Boot).
 - Open for project collaboration and job opportunities. 
 
 <br/>
