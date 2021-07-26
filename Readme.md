@@ -36,7 +36,7 @@
 - 💻 &nbsp; Javascript  | Java
 - 🌐 &nbsp; HTML | CSS  | Bootstrap | Sass | ReactJS | NextJS | NodeJS | Spring Boot |
 - 🛢 &nbsp; PostgreSql
-- 🔧 &nbsp; Git | Postman API | Figma | Zeplin
+- 🔧 &nbsp; Git | Postman | Figma | Zeplin
 
 <br/>
 
