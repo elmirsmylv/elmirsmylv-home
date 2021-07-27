@@ -35,7 +35,7 @@
 
 - 💻 &nbsp; Javascript  | Java
 - 🌐 &nbsp; HTML | CSS  | Bootstrap | Sass | ReactJS | NextJS | NodeJS | Spring Boot |
-- 🛢 &nbsp; PostgreSql
+- 🛢 &nbsp; PostgreSql | MongoDB
 - 🔧 &nbsp; Git | Postman | Figma | Zeplin
 
 <br/>
