@@ -1,6 +1,6 @@
 <!--<img src="https://media.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif" align="right" width="300" height="250"  />-->
 
-<h1 align="center"> Front-end Developer | Tech Enthusiast </h1>
+<h1 align="center"> Software Developer | Tech Enthusiast </h1>
 
 
 <p align="center"> 
