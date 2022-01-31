@@ -33,8 +33,8 @@
 <br/>
 -->
 
-- 💻 &nbsp; Javascript  | Java
-- 🌐 &nbsp; HTML | CSS  | Bootstrap | Sass | ReactJS | NextJS | NodeJS | ExpressJs | Spring Boot |
+- 💻 &nbsp; Javascript
+- 🌐 &nbsp; HTML | CSS  | Bootstrap | Sass | ReactJS | NextJS | NodeJS | ExpressJs
 - 🛢 &nbsp; PostgreSql | MongoDB
 - 🔧 &nbsp; Git | Postman | Figma | Zeplin
 
