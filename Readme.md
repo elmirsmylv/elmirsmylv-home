@@ -34,7 +34,7 @@
 -->
 
 - 💻 &nbsp; Javascript
-- 🌐 &nbsp; HTML | CSS  | Bootstrap | Sass | ReactJS | NextJS | NodeJS | ExpressJs
+- 🌐 &nbsp; HTML | CSS | Sass | ReactJS | NextJS | NodeJS | ExpressJs
 - 🛢 &nbsp; PostgreSql | MongoDB
 - 🔧 &nbsp; Git | Postman | Figma | Zeplin
 
