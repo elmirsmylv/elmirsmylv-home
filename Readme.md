@@ -14,9 +14,8 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and learn developing software solutions.
-- 🎓 &nbsp; Studying MIS at Akdeniz University, Antalya , TURKEY.
-- 🌱 &nbsp; Currently coding JavaScript ( ReactJs, NextJs, NodeJs ).
-- Open for project collaboration. 
+- 🌱 &nbsp; Currently coding JavaScript at Idealex ( ReactJs, NextJs, NodeJs ).
+- 🎭 &nbsp; Open for project collaboration. 
 
 <br/>
 
