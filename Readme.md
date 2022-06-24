@@ -15,6 +15,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and learn developing software solutions.
 - 🌱 &nbsp; Currently coding JavaScript at Idealex ( ReactJs, NextJs, NodeJs ).
+- 🤟🏻 &nbsp; Currently learning AWS, Microservices ( Kubernetes ).
 - 🎭 &nbsp; Open for project collaboration. 
 
 <br/>
@@ -31,14 +32,15 @@
 
 <br/>
 -->
-
+<!-- 
 - 💻 &nbsp; Javascript
 - 🌐 &nbsp; HTML | CSS | Sass | ReactJS | NextJS | NodeJS | ExpressJs
 - 🛢 &nbsp; PostgreSql | MongoDB
-- 🔧 &nbsp; Git | Postman | Figma | Zeplin
+- 🔧 &nbsp; Git | Postman | Figma 
+
 
 <br/>
-
+-->
 <!--### Reach out to me
 
 
