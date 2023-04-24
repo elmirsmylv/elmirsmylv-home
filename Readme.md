@@ -14,8 +14,8 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and learn developing software solutions.
-- 🌱 &nbsp; Currently developing things at Idealex ( ReactJs, NextJs, NodeJs ).
-- 🤟🏻 &nbsp; Currently learning AWS, Microservices ( Kubernetes ).
+- 🌱 &nbsp; Currently developing things at Idealex ( NextJs, NodeJs, Python, AWS ).
+- 🤟🏻 &nbsp; Currently learning Cloud Technologies.
 - 🎭 &nbsp; Open for project collaboration. 
 
 <br/>
